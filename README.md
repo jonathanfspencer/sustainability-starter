@@ -13,6 +13,7 @@
 * Publish your accomplishments and seek feedback from the community to set new goals.
 
 ## What Else Can We Do?
+* Provide your community with a list of local sustainability resources (recycling information, landscaping grants, solar bulk buy opportunities, etc.).
 * Engage your local library to offer talks on sustainability issues.
 * Meet with your local schools to add sustainability to their curricula.
 * Talk to your recycling provider to see how to increase participation and compliance.
