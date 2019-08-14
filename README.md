@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+## Steps to Launching a Municipal Sustainability Commission
+ 1. Determine whether your municipality has a commission already.
+ 2. Find some neighbors who share your interests and invite them to join you.
+ 3. Contact your elected officials to let them know what you are doing and why it is important.
+ 4. Write a resolution establishing your commission and present it at a city council meeting.
 
-You can use the [editor on GitHub](https://github.com/jonathanfspencer/sustainability-starter/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Now What?
+* Follow the process in your resolution to nominate members to your commission.
+* Establish a regular meeting schedule.
+* Seek input from the community to determine goals and objectives.
+* Use the ICLEI Toolkit to create a Sustainability Plan.
+* Assign ownership of goals and objectives to commission members to see them through to completion.
+* Publish your accomplishments and seek feedback from the community to set new goals.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jonathanfspencer/sustainability-starter/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## What Else Can We Do?
+* Engage your local library to offer talks on sustainability issues.
+* Meet with your local schools to add sustainability to their curricula.
+* Talk to your recycling provider to see how to increase participation and compliance.
+* Challenge local restaurants to reduce their use of single-serving containers and utensils.
+* Establish and Environmentally Preferable Purchasing Policy for your municipality.
