@@ -1,0 +1,2 @@
+# sustainability-starter
+Starting a sustainability commission or committee in your hometown is a fun and effective way to engage your neighbors and city officials in promoting environmental, social, and economic sustainability. This project aims to provide a toolkit to help you launch and guide a sustainability commission, from passing an establishing resolution to working with your local utility providers.
